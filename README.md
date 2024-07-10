@@ -1,6 +1,7 @@
 # first-aws-Project
 VPC Creation and with various AWS Componenets
-![image](https://github.com/iam-sayantanidey/first-aws-Project/assets/167431071/0a5500f5-8e53-4f38-9ed3-e7c53b8a1139)
+![image](https://github.com/iam-sayantanidey/first-aws-Project/assets/167431071/9612dadb-9d3f-4853-a23b-f75e5e38325f)
+
 
 
 Creating a VPC:
