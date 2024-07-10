@@ -15,4 +15,6 @@ Creating a VPC:
 <img width="703" alt="image" src="https://github.com/iam-sayantanidey/first-aws-Project/assets/167431071/caac3ed0-a0ee-417a-92d3-eb8d299dfbe1">
 <img width="713" alt="image" src="https://github.com/iam-sayantanidey/first-aws-Project/assets/167431071/e7e64d13-b69a-45a8-abde-1836c66ca598">
 
+<img width="794" alt="image" src="https://github.com/iam-sayantanidey/first-aws-Project/assets/167431071/d72eec5b-00c0-4d60-8d02-776b2f9841cd">
+
 
